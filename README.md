@@ -1,24 +1,30 @@
-# sistema-estoque-cpp
 # 🧩 Sistema de Controle de Estoque em C++
 
-Sistema desenvolvido em C++ para gerenciamento de produtos, permitindo cadastro, busca, remoção e atualização de estoque.
+Sistema desenvolvido em C++ para gerenciamento de produtos, com funcionalidades completas de controle de estoque.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Adicionar produto
-- Remover produto
-- Buscar produto por ID
-- Listar produtos
-- Atualizar quantidade em estoque
+- Cadastro de produtos
+- Remoção de produtos
+- Busca por ID
+- Listagem de produtos
+- Atualização de quantidade em estoque
+- Validação de dados de entrada
+
+---
+
+## 🧠 Objetivo do projeto
+
+Aplicar conceitos de programação orientada a objetos e estruturas de dados para simular um sistema real de controle de estoque.
 
 ---
 
 ## 🛠️ Tecnologias
 
 - C++
-- STL (vector)
+- STL (`vector`)
 - Programação Orientada a Objetos
 
 ---
@@ -26,9 +32,10 @@ Sistema desenvolvido em C++ para gerenciamento de produtos, permitindo cadastro,
 ## 📚 Conceitos aplicados
 
 - Encapsulamento
-- Organização modular (.h / .cpp)
-- Validação de entrada
+- Modularização (.h e .cpp)
 - Estruturas de dados
+- Validação de entrada
+- Controle de fluxo
 
 ---
 
